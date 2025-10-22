@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p28206-e1206067.adobeaemcloud.com/bin/franklin.delivery/sowmiyamurugeshan/universal-editor-getting-started/main"
+    url: "https://author-p28206-e1206067.adobeaemcloud.com/bin/franklin.delivery/sowmiyamurugeshan208/universal-editor/main"
     type: "markup"
     suffix: ".html"
