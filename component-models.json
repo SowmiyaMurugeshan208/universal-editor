@@ -238,7 +238,6 @@
         "value": "",
         "label": "Background Color",
         "description": "The quote background color",
-        "valueType": "string",
         "options": [
           {
             "name": "Red",
